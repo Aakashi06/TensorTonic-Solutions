@@ -11,7 +11,3 @@ TensorTonic is a platform where you can implement core algorithms of Machine Lea
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
 
 
-
-
-
-
